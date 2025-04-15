@@ -4,4 +4,4 @@ We had decided to work on using pre-snap movement to predict whether the play wa
 
 We used a deep learning architecture consisting of an CNN backbone. The output of this was concatenated with the processed persistent homology data (see PHG_Net for detailed understanding), and with situational data, and was passed through an MLP. 
 
-We achieved an accuracy of close to 80%. 
+We achieved an accuracy of approximately 70%. 
